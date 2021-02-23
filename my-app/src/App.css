@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  color: blue;
+}
+
+h5{
+  background-color: #a3bcee;
+  color: #a3bcee;
+}
+.App-header {
+  /*background-color: #a3bcee;*/
+ /* min-height: 0vh;*/
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(123, 104, 153);
+}
+.footerdiv{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.buttondiv{
+ 
+  
+}
